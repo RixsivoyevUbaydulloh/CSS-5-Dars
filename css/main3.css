@@ -1,0 +1,31 @@
+.card{
+    width: 500px;
+    height: 700px;
+    margin: 200px auto;
+    border: 1px solid gray;
+}
+.card-1{
+    width: 500px;
+    height: 50%;
+    border: 1px solid gray;
+    position: relative;
+}
+.card-2{
+    width: 500px;
+    height: 50%;
+    border: 1px solid gray;
+}
+.tolash{
+    width: 120px;
+    height: 120px;
+    background-color: orange;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    color: white;
+    padding-top: 15px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+}
